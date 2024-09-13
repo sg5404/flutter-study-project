@@ -1,16 +1,9 @@
 # flutter_first_project
 
-A new Flutter project.
+프로젝트 경로 : D\FlutterProjects\firstProject\flutter_first_project\
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+플루터 다운로드 필요함.
+근데 솔찍히 설치 귀찮으니까 github에 올려야지 폴더 그대로
+링크 : 
