@@ -5,3 +5,5 @@
 ## Getting Started
 
 플루터 다운로드 필요함.
+
+실행 방법 : flutter run -d chrome --web-port=8081
